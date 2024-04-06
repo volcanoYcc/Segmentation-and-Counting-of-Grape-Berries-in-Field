@@ -8,11 +8,11 @@ Kyoho
 <details>
 <summary>click to show more</summary>
   
-ShineMuscat
+Shine Muscat
   
 <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/ShineMuscat_1.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/ShineMuscat_2.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/ShineMuscat_3.jpg" width="260px" />
 
-SummerBlack
+Summer Black
 
 <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/SummerBlack_1.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/SummerBlack_2.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/SummerBlack_3.jpg" width="260px" />
 </details>
