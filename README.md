@@ -20,6 +20,8 @@ Summer Black
 </details>
 
 ## Mask Gaussian kernels
+Example probability maps generated using our proposed method of creating Gaussian kernels with object instance segmentation annotations.
+
 <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/Kyoho_30.jpg" width="400px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/Kyoho_30_mask.jpg" width="400px" />
 <details>
 <summary>click to show more</summary>
