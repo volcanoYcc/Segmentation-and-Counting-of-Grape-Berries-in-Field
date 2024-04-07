@@ -36,3 +36,9 @@ Example probability maps generated using our proposed method of creating Gaussia
 ## Grape berry segmentation and counting
 Grape berry instance segmention results obtained from the probability maps predicted be the neural network using watershed algorithm:
 
+<img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/Kyoho_16_pred.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/Kyoho_21_pred.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/Kyoho_48_pred.jpg" width="260px" />
+<details>
+<summary>click to show more</summary>
+<img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/ShineMuscat_28_pred.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/ShineMuscat_30_pred.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/ShineMuscat_39_pred.jpg" width="260px" />
+<img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/SummerBlack_20_pred.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/SummerBlack_33_pred.jpg" width="260px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/SummerBlack_42_pred.jpg" width="260px" />
+</details>
