@@ -24,7 +24,7 @@ Our dataset will be publically available after the acceptance of our paper.
 ## Mask Gaussian kernels
 In file `'generate_probmaps_mask.py'`, `'generate_probmaps_bbox.py'`, and `'generate_probmaps_point.py'` we show our codes of generating Gaussian kernels with grape berry mask, bbox and point annotations in COCO format.
 
-Example probability maps generated using our proposed method of creating Gaussian kernels with object instance segmentation annotations.
+Example probability maps generated using our proposed method of creating Gaussian kernels with object instance segmentation annotations:
 
 <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/Kyoho_30.jpg" width="400px" /> <img src="https://github.com/volcanoYcc/Segmentation-and-Counting-of-Grape-Berries-in-Field/raw/master/README_images/Kyoho_30_mask.jpg" width="400px" />
 <details>
@@ -34,5 +34,5 @@ Example probability maps generated using our proposed method of creating Gaussia
 </details>
 
 ## Grape berry segmentation and counting
-Grape berry instance segmention results obtained from the probability maps predicted be the neural network using watershed algorithm.
+Grape berry instance segmention results obtained from the probability maps predicted be the neural network using watershed algorithm:
 
