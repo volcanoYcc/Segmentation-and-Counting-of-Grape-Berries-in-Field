@@ -22,7 +22,7 @@ Our dataset will be publically available after the acceptance of our paper.
 </details>
 
 ## Mask Gaussian kernels
-In file `'generate_probmaps_mask.py'`, `'generate_probmaps_bbox.py'`, and `'generate_probmaps_point.py'` we show our codes of generating gaussian kernels with grape berry mask, bbox and point annotations in COCO format.
+In file `'generate_probmaps_mask.py'`, `'generate_probmaps_bbox.py'`, and `'generate_probmaps_point.py'` we show our codes of generating Gaussian kernels with grape berry mask, bbox and point annotations in COCO format.
 
 Example probability maps generated using our proposed method of creating Gaussian kernels with object instance segmentation annotations.
 
